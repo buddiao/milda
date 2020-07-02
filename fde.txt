@@ -1,0 +1,124 @@
+ 
+       @@@   @@@    @@@   @@@
+       @@@   @@@    @@@   @@@
+       @@@   @@@    @@@   @@@
+      @@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@ FDE @@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+      @@@@@@@@   @@@@@@   @@@@
+@@@@@@@@@@@@@     @@@@@   @@@@@@@@@@
+@@@@@@@@@@@@   @   @@@@   @@@@@@@@@@
+      @@@@@@  @@@  @@@@   @@@@
+@@@@@@@@@@@         @@@   @@@@@@@@@@
+@@@@@@@@@@   @@@@@   @@   @@@@@@@@@@
+      @@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@ 4.12 @@@@@@@@@@@@@@
+      @@@@@@@@@@@@@@@@@@@@@@@@
+       @@@   @@@    @@@   @@@
+       @@@   @@@    @@@   @@@
+       @@@   @@@    @@@   @@@
+ 
+>> Device: asus ZenFone Max Pro M1
+>> ROM: QQ3A.200605.001
+>> Kernel version: 4.4.226-darkonah
+>> Android SDK: 29
+>> SElinux state: Permissive
+>> CPU: Snapdragon SDM636 rev 1.0
+>> CPU arch: arm64-v8a
+>> CPU cores: 8
+>> CPU freq: 633-1804 MHz
+>> CPU governor: interactive
+>> RAM: 2711 MB
+>> RAM available free: 1248 MB
+>> RAM real free: 31 MB
+>> GPU: Adreno512v1
+>> GPU freq: 160-430 MHz
+>> Display size: 1080x2160
+>> Display density: 420 dpi
+>> Battery capacity: 5000 mAh
+>> Device temperature: 33 C
+>> System up time: 0 min
+>> ROOT: 20.4:MAGISKSU
+>> BusyBox v1.32.0.feravolt (2019-07-17 17:33:22 +06) multi-call binary.
+ 
+05:14:30 - OS boot process optimization
+05:14:31 - Runtime environment optimization
+05:14:31 - CPU sleep mode activated
+05:14:31 - Schedulers input boost deactivated
+05:14:32 - Input boost optimized
+05:14:32 - Adreno GPU frequencies optimization
+05:14:32 - Adreno Idler activated & optimized
+05:14:32 - FPS optimization
+05:14:32 - Disabled various kernel debugging
+05:14:32 - Doze and Light Doze parameters optimized
+05:14:32 - Network buffers optimized
+05:14:33 - Optimized kernel network stack
+05:14:33 - TCP congrestion controller - westwood
+05:14:33 - Cache partition trash cleaned
+05:14:33 - TCP congrestion controller optimized
+05:14:33 - WiFi packets throughput optimized
+05:14:33 - User partition trash cleaned
+05:14:33 - I/O scheduler - anxiety
+05:14:33 - R/W speed optimization for all partitions
+05:14:33 - Internal memory trash cleaned
+05:14:33 - I/O optimization for all partitions
+05:14:34 - File system optimization for all partitions
+05:14:34 - Starting AI..
+05:14:34 - Kernel schedulers optimized
+05:14:34 - Kernel schedulers stats deactivated
+05:14:34 - Entropy generator optimized
+05:14:34 - File system cache optimized
+05:14:35 - RAM kernel allocation optimized
+05:14:35 - Kernel OOM killer deactivated
+05:14:35 - VM cache optimized
+05:14:35 - VM panic deactivated
+05:14:35 - VM dump deactivated
+05:14:35 - VM read/write speed optimized
+05:14:35 - VM memory compaction activated & optimized
+05:14:35 - Task dumps deactivated
+05:14:35 - File system kernel parameters optimized
+05:14:35 - Kernel panic deactivated
+05:14:35 - Sched parameters scaling deactivated
+05:14:35 - HMP scheduler optimized
+05:14:36 - CPU governor optimized
+05:14:36 - Power efficient CPU queues activated
+05:14:36 - CPU bandwidth optimized
+05:14:36 - RAM dumps deactivated
+05:14:36 - Cgroups parameters optimized
+05:14:37 - LMK debugging deactivated
+05:14:37 - LMK fast run logic deactivated
+05:14:37 - ALMK deactivated
+05:14:37 - Checking errors on all partitions..
+05:14:37 - DalvikVM memory allocation optimization
+05:14:37 - Patching SafetyNET
+ALL is GOOD.
+ 
+11:44:24 ~ AI: Initializing modules..
+11:44:25 ~ AI: Loading machine learned data..
+11:44:26 ~ AI: System processes optimized
+11:44:26 ~ AI: Refreshing file system for speed-up..
+11:44:28 ~ AI: FDE.AI GPUturbo is supported
+11:44:28 ~ AI: FDE.AI CPUturbo is supported
+11:44:28 ~ AI: Configuring system for better power-saving..
+16:12:30 ~ AI: CPUturbo mode activated
+19:12:18 ~ AI: Configuring system for better performance..
+19:12:45 ~ AI: Configuring system for better power-saving..
+19:20:50 ~ AI: Configuring system for better performance..
+19:21:17 ~ AI: Configuring system for better power-saving..
+19:35:07 ~ AI: Configuring system for better performance..
+19:36:02 ~ AI: Configuring system for better power-saving..
+19:37:11 ~ AI: Configuring system for better performance..
+19:55:58 ~ AI: Configuring system for better power-saving..
+19:57:07 ~ AI: Configuring system for better performance..
+20:04:27 ~ AI: Configuring system for better power-saving..
+20:05:37 ~ AI: Configuring system for better performance..
+20:09:17 ~ AI: Configuring system for better power-saving..
+20:15:03 ~ AI: Configuring system for better performance..
+20:15:58 ~ AI: Configuring system for better power-saving..
+20:17:07 ~ AI: Configuring system for better performance..
+20:20:47 ~ AI: Configuring system for better power-saving..
+20:43:52 ~ AI: System processes optimized
+20:43:52 ~ AI: Refreshing file system for speed-up..
+20:55:22 ~ AI: Configuring system for better performance..
+20:56:44 ~ AI: Configuring system for better power-saving..
